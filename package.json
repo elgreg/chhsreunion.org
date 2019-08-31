@@ -1,0 +1,21 @@
+{
+  "name": "chhsreunion.org",
+  "version": "1.0.0",
+  "description": "A website for the chhs reunion",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elgreg/chhsreunion.org.git"
+  },
+  "author": "elgreg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elgreg/chhsreunion.org/issues"
+  },
+  "homepage": "https://github.com/elgreg/chhsreunion.org#readme"
+}
