@@ -1,11 +1,6 @@
----
-home: true
-heroImage: /hero.jpg
----
+# November 9th, 2019
 
-# Upcoming events
-
-## November 9th, 2019 - '96, '97, '98, '99
+On November 9th, 2019 members from the graduating classes of 1996, 1997, 1998 and 1999 will come together to celebrate over 20 years since their graduation.
 
 [Tickets](https://www.eventbrite.com/e/chhs-class-of-96979899-reunion-tickets-3612038705?aff=chhsreunionorg)
 
